@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721228950065",
+    "firebase_url": "https://com-raphael-androidtemplate-default-rtdb.firebaseio.com",
+    "project_id": "com-raphael-androidtemplate",
+    "storage_bucket": "com-raphael-androidtemplate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721228950065:android:bceb8f7082ac3ec3188310",
+        "android_client_info": {
+          "package_name": "com.raphael.androidtemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721228950065-4r7q5mgr5b8ejegp2g9908e2suampa4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWozcA_z_JDmjqthUhqdqNPPAaW0VA80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721228950065-4r7q5mgr5b8ejegp2g9908e2suampa4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
